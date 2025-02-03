@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working Security Engineers Pvt. Ltd.<br>👯 I’m looking to collaborate on new project <br>🤝 I’m looking for help with Debugging<br>🌱 I’m currently learning Backend<br>⚡ fun fact about me, "Code ninja by day, Genshin pro by night. 🚀🎮 Building apps, breaking limits."
 
 
 ## 🌐 Socials:
