@@ -1,4 +1,5 @@
 # 💫 About Me:
+"Passionate Full-Stack Developer 🚀 | Crafting dynamic websites & AI-powered apps. Java, Python, JS enthusiast | Building projects with clean code & creative flair. Let’s innovate together! 💡"
 🔭 I’m currently working Security Engineers Pvt. Ltd.<br>👯 I’m looking to collaborate on new project <br>🤝 I’m looking for help with Debugging<br>🌱 I’m currently learning Backend<br>⚡ fun fact about me, "Code ninja by day, Genshin pro by night. 🚀🎮 Building apps, breaking limits."
 
 
