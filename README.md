@@ -130,12 +130,14 @@ Responsibilities:
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Itinerant18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itinerant18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Itinerant18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itinerant18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itinerant18&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Itinerant18&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
 ---
@@ -143,7 +145,7 @@ Responsibilities:
 ## 🏆 Achievements & Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Itinerant18&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=Itinerant18&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -189,7 +191,7 @@ graph LR
 ## 📊 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Itinerant18&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Itinerant18&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff" alt="Contribution Graph"/>
 </div>
 
 ---
