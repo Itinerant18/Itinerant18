@@ -106,25 +106,36 @@ I don’t just write code — I **design systems**, validate ideas fast, and shi
 ---
 
 ## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Itinerant18&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itinerant18&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itinerant18&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Itinerant18&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itinerant18&layout=compact&theme=tokyonight"
+    height="165"
+  />
 </p>
+
 
 ---
 
 ## 🏆 Achievements
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Itinerant18&theme=darkhub&no-frame=true&margin-w=10" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Itinerant18&theme=tokyonight&margin-w=8&no-frame=true"
+  />
 </p>
 
----
 
+---
 ## ✍️ Builder Quote
-> *“Great products are built at the intersection of engineering, execution, and obsession with users.”*
+
+> **“I don’t just build features — I build systems that scale, learn, and deliver value.”**  
+> — Aniket Karmakar
+
 
 ---
 
