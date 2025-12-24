@@ -1,5 +1,5 @@
-# 💫 About Me:
-"🚀 Passionate Full-Stack Developer | Building dynamic websites & AI-powered apps with Java, Python, and JavaScript. Crafting clean, efficient code with a creative touch. Let’s build the future together! 💡"
+#  About Me:
+" Passionate Full-Stack Developer | Building dynamic websites & AI-powered apps with Java, Python, and JavaScript. Crafting clean, efficient code with a creative touch. Let’s build the future together! 💡"
 
 🔭 Currently working at Security Engineers Pvt. Ltd., shaping secure and innovative tech solutions.
 👯 I’m looking to collaborate on new projects
