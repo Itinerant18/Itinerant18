@@ -128,35 +128,6 @@ Responsibilities:
 
 ---
 
-## 📈 GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/Itinerant18">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Itinerant18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9"/>
-  </a>
-  <a href="https://github.com/Itinerant18">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itinerant18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Itinerant18">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itinerant18&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak"/>
-  </a>
-</p>
-
----
-
-## 🏆 Achievements & Trophies
-
-<p align="center">
-  <a href="https://github.com/Itinerant18">
-    <img src="https://github-profile-trophy.vercel.app/?username=Itinerant18&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-  </a>
-</p>
-
----
-
 ## 🎓 Learning Journey
 
 ### 📚 **Previous Learning Path**
