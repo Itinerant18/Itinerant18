@@ -133,8 +133,10 @@ I don’t just write code — I **design systems**, validate ideas fast, and shi
 ---
 ## ✍️ Builder Quote
 
-> **“I don’t just build features — I build systems that scale, learn, and deliver value.”**  
-> — Aniket Karmakar
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+</p>
+
 
 
 ---
