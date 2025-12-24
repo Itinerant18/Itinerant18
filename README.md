@@ -1,96 +1,138 @@
-<div align="center">
- 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Full-Stack+Developer;AI+%26+Security+Enthusiast;Code+Ninja+by+Day;Genshin+Pro+by+Night+🚀" alt="Typing SVG" />
-
-  <h2 align="center">Hi there, I'm Aniket Karmakar! 👋</h2>
-  
-  <p align="center">
-    <b>Building the future with Java, Python, and JavaScript.</b><br>
-    Crafting clean, efficient code with a creative touch.
-  </p>
-
-  <a href="https://linkedin.com/in/itinerant018">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Itinerant18">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:itinerant018@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://stackoverflow.com/users/16643552/aniket-karmakar">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
-  </a>
-  <a href="https://instagram.com/its_bohemian_">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-
-</div>
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Aniket+Karmakar;Startup-Minded+Full-Stack+Developer;AI+%7C+ML+%7C+Cloud+%7C+IoT+Builder;Turning+Ideas+Into+Scalable+Products" alt="Typing SVG" />
+</p>
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 Founder-Minded Full-Stack Engineer | AI & ML Builder | Cloud-Native Architect
 
-- 🔭 **Currently working at:** Security Engineers Pvt. Ltd.
-- 👯 **Looking to collaborate on:** Open Source & AI Projects.
-- 🌱 **Currently learning:** Advanced Backend Architecture & Ethical Hacking.
-- ⚡ **Fun Fact:** I treat debugging like a boss fight in Genshin Impact—strategy, patience, and the ultimate loot (clean code) at the end! 🎮
+I’m a **startup-oriented Full-Stack Developer** focused on building **scalable, intelligent, and production-ready products**.
 
----
+I don’t just write code — I **design systems**, validate ideas fast, and ship solutions that solve **real business problems** using **AI, ML, and modern cloud stacks**.
 
-### 🛠️ Tech Stack
-
-<div align="center">
-
-| **Languages** | **Frontend** | **Backend** |
-|:---:|:---:|:---:|
-| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) |
-| ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/sql-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) | ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) | ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) |
-
-<br/>
-
-| **Cloud & DevOps** | **Tools & Design** |
-|:---:|:---:|
-| ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) |
-| ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) |
-
-</div>
+💡 Strong believer in *execution > ideas*.
 
 ---
 
-### 📊 GitHub Stats
+## 🧠 Startup Engineering Mindset
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Itinerant18&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itinerant18&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph" />
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Itinerant18&theme=radical&row=1&column=7&margin-w=15&margin-h=15" alt="trophy" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Itinerant18&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
-</div>
+- 🏗️ Build **MVP → Scale → Optimize**
+- 🤖 Embed **AI/ML intelligence** into products
+- ☁️ Cloud-first, API-driven architectures
+- 🔐 Security, performance & maintainability by design
+- 📊 Data-driven decisions, measurable impact
 
 ---
 
-### ✍️ Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
-</div>
+## 💼 Professional Experience
 
-<br/>
+### **Software Engineer | Web, AI & IoT Systems**
+🏢 **Security Engineers Pvt. Ltd.**
 
-<div align="center"> 
-  <a href="https://buymeacoffee.com/userdefiney">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-</div>
+- Designed and developed **full-stack platforms** used in real-world environments
+- Built **AI-powered dashboards & automation tools**
+- Integrated **IoT devices, sensors & live data pipelines**
+- Worked on **secure backend APIs, authentication & system integrations**
+- Collaborated closely with product & hardware teams
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Itinerant18&icon=0&color=0" alt="Visitor Count" />
-</div>
+---
+
+## 🧠 AI / ML Focus Areas
+
+- 🤖 AI Agents & LLM-powered workflows
+- 📊 Predictive analytics & recommendation systems
+- 🧠 NLP-based chatbots & assistants
+- ⚙️ Model integration into production backends
+- 🔁 Rule-based + ML hybrid intelligence systems
+
+---
+
+## 🌱 Currently Deepening Skills In
+- System Design & High-Level Architecture
+- Microservices & Event-Driven Systems
+- AI Agents (LangChain-style architectures)
+- DevOps, CI/CD & Cloud Cost Optimization
+
+---
+
+## 🤝 Open To
+- Startup collaborations & early-stage products
+- AI / ML system design & implementation
+- Full-stack roles (Product-focused teams)
+- Open-source & research-driven projects
+
+---
+
+## 🌐 Professional Links
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/itinerant018)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16643552/aniket-karmakar)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itinerant018@gmail.com)
+
+---
+
+## 💻 Core Tech Stack (ATS Optimized)
+
+### Frontend
+- HTML5, CSS3, JavaScript (ES6+), TypeScript
+- React.js, Next.js, Angular
+- UI Systems, Responsive Design, Performance Optimization
+
+### Backend
+- Java, Python, Node.js
+- Django, FastAPI, NestJS
+- REST APIs, Authentication (JWT), Secure Architecture
+
+### AI / ML
+- Python, NumPy, Pandas
+- ML Pipelines, AI Agents
+- LLM Integration, NLP Systems
+
+### Databases
+- MySQL, SQL Server
+- Firebase, Supabase
+- Data Modeling & Query Optimization
+
+### Cloud & DevOps
+- AWS, Google Cloud Platform
+- Docker, CI/CD Pipelines
+- Vercel, Netlify, Cloud Deployment
+
+### Tools
+- Git, GitHub, Postman
+- Figma, System Diagrams
+- Agile & Product Development
+
+---
+
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Itinerant18&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itinerant18&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itinerant18&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Itinerant18&theme=darkhub&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## ✍️ Builder Quote
+> *“Great products are built at the intersection of engineering, execution, and obsession with users.”*
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Itinerant18&color=6" />
+</p>
+
+---
+
+## 💙 Support My Work
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/userdefiney)
