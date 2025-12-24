@@ -66,7 +66,8 @@ Responsibilities:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### **Backend & APIs**
@@ -129,28 +130,84 @@ Responsibilities:
 
 ## 📈 GitHub Analytics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Itinerant18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itinerant18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
-</div>
+<p align="center">
+  <a href="https://github.com/Itinerant18">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Itinerant18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9"/>
+  </a>
+  <a href="https://github.com/Itinerant18">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itinerant18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8"/>
+  </a>
+</p>
 
-<br/>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Itinerant18&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <a href="https://github.com/Itinerant18">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itinerant18&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak"/>
+  </a>
+</p>
 
 ---
 
 ## 🏆 Achievements & Trophies
 
+<p align="center">
+  <a href="https://github.com/Itinerant18">
+    <img src="https://github-profile-trophy.vercel.app/?username=Itinerant18&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  </a>
+</p>
+
+---
+
+## 🎓 Learning Journey
+
+### 📚 **Previous Learning Path**
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**Phase 1: Frontend Mastery** 🎨
+```
+HTML/CSS → JavaScript
+↓
+React.js → Next.js
+↓
+UI/UX Design
+```
+</td>
+<td width="33%" align="center">
+
+**Phase 2: Backend Development** ⚙️
+```
+Node.js → Python
+↓
+Django → FastAPI
+↓
+RESTful APIs → Auth
+```
+</td>
+<td width="33%" align="center">
+
+**Phase 3: Core Fundamentals** 📊
+```
+Data Structures
+↓
+Algorithms
+↓
+System Design Basics
+```
+</td>
+</tr>
+</table>
+
 <div align="center">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=Itinerant18&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+
+**Languages Mastered:** `Java` → `Python` → `JavaScript/TypeScript` → `SQL`
+
 </div>
 
 ---
 
-## 🌱 Current Learning Path
+### 🌱 **Current Learning Path**
 
 ```mermaid
 graph LR
@@ -160,6 +217,11 @@ graph LR
     D --> E[LangChain & AutoGPT]
     C --> F[DevOps & CI/CD]
     F --> G[Cloud Cost Optimization]
+    
+    style A fill:#38bdf8,stroke:#0ea5e9,color:#000
+    style D fill:#38bdf8,stroke:#0ea5e9,color:#000
+    style E fill:#22c55e,stroke:#16a34a,color:#000
+    style G fill:#22c55e,stroke:#16a34a,color:#000
 ```
 
 **Focus Areas:** Advanced system architecture, scalable microservices, intelligent AI agents, production DevOps
@@ -190,9 +252,11 @@ graph LR
 
 ## 📊 Contribution Graph
 
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Itinerant18&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff" alt="Contribution Graph"/>
-</div>
+<p align="center">
+  <a href="https://github.com/Itinerant18">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Itinerant18&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&area_color=38bdf8" alt="Contribution Graph"/>
+  </a>
+</p>
 
 ---
 
