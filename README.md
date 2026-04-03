@@ -201,10 +201,10 @@ side_channels:
 <div align="center">
 
 <img height="165"
-  src="https://github-readme-stats.vercel.app/api?username=Itinerant18&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github"
+  src="https://github-readme-stats-b989r5u61-itinerant018aks-projects.vercel.app/api?username=Itinerant18&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github"
   alt="Aniket GitHub Stats" />
 <img height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itinerant18&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=320"
+  src="https://github-readme-stats-b989r5u61-itinerant018aks-projects.vercel.app/api/top-langs/?username=Itinerant18&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=320"
   alt="Top Languages" />
 
 <br/>
@@ -227,7 +227,7 @@ side_channels:
 
 </div>
 
-> **⚠️ Stats cards not loading?** The shared `github-readme-stats.vercel.app` is rate-limited.
+> **⚠️ Stats cards not loading?** The shared `github-readme-stats-b989r5u61-itinerant018aks-projects.vercel.app` is rate-limited.
 > **Fix:** Fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) → deploy to your own Vercel with `GITHUB_TOKEN` env var → replace the domain above.
 
 ---
