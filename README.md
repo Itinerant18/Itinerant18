@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001e,40:7303c0,80:ec38bc,100:fdeff9&height=240&section=header&text=Aniket%20Chakraborty&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Architect%20%7C%20AI%2FML%20Engineer%20%7C%20IoT%20Platform%20Builder&descAlignY=60&descAlign=50&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001e,40:7303c0,80:ec38bc,100:fdeff9&height=240&section=header&text=Aniket%20Karmakar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Architect%20%7C%20AI%2FML%20Engineer%20%7C%20IoT%20Platform%20Builder&descAlignY=60&descAlign=50&descSize=18" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=EC38BC&center=true&vCenter=true&width=720&height=45&lines=🧠+Designing+Enterprise+RAG+%26+AI+Systems;💻+Next.js+16+%2B+Spring+Boot+%2B+TypeScript;⚡+Industrial+IoT+Platform+Architect;🤖+Multilingual+LLM+Pipeline+Engineer;🏢+Junior+Executive+Engineer+%40+SEPLe" />
 
@@ -31,7 +31,7 @@
 <td valign="top" width="55%">
 
 ```yaml
-name    : Aniket Chakraborty
+name    : Aniket Karmakar
 role    : Junior Executive Engineer — R&D
 company : Security Engineers Pvt. Ltd.
 base    : Kolkata, India 🇮🇳
@@ -167,7 +167,7 @@ leveling_up:
 <br/>
 
 <img width="96%"
-  src="https://github-profile-trophy.vercel.app/?username=Itinerant18&theme=tokyonight&no-frame=true&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"
+  src="https://github-profile-trophy-ak-git-master-itinerant018aks-projects.vercel.app/?username=Itinerant18&theme=tokyonight&no-frame=true&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"
   alt="GitHub Trophies" />
 
 <br/>
@@ -296,7 +296,7 @@ leveling_up:
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+![Quote](https://img.shields.io/badge/💬_%22Architecture_is_decisions_made_early_—_the_rest_is_just_code.%22-EC38BC?style=for-the-badge&labelColor=03001e&color=7303c0)
 
 <br/>
 
