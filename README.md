@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001e,40:7303c0,80:ec38bc,100:fdeff9&height=240&section=header&text=Aniket%20Karmakar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Architect%20%7C%20AI%2FML%20Engineer%20%7C%20IoT%20Platform%20Builder&descAlignY=60&descAlign=50&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001e,40:7303c0,80:ec38bc,100:fdeff9&height=240&section=header&text=Aniket%20Karmakar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Architect%20%7C%20AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=60&descAlign=50&descSize=18" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=EC38BC&center=true&vCenter=true&width=760&height=45&lines=Designing+Enterprise+RAG+%26+AI+Systems;Next.js+16+%2B+Spring+Boot+%2B+TypeScript+Fullstack;Industrial+IoT+Platform+Architect;Multilingual+LLM+Pipeline+Engineer;Junior+Executive+Engineer+%40+SEPLe" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itinerant018)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itinerant018)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Itinerant18)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itinerant018@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7303c0?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/Itinerant18?tab=repositories)
@@ -31,22 +31,20 @@
 <td valign="top" width="55%">
 
 ```yaml
-name    : Aniket Karmakar
-role    : Junior Executive Engineer — R&D
-company : Security Engineers Pvt. Ltd.
-base    : Kolkata, India 🇮🇳
+name: Aniket Karmakar
+role: Junior Executive Engineer — R&D
+company: Security Engineers Pvt. Ltd.
+base: Kolkata, India 🇮🇳
 
-focus:
-  ▸ Enterprise RAG & LLM pipelines
-  ▸ Full-stack · Next.js + Java + Flask 
+focus: ▸ Enterprise RAG & LLM pipelines
+  ▸ Full-stack · Next.js + Spring Boot
+  ▸ Industrial IoT · ThingsBoard
   ▸ AI-native product development
 
-currently_building:
-  ▸ Dexter Tech Support AI (RAG · Sarvam-M)
+currently_building: ▸ Dexter Tech Support AI (RAG · Sarvam-M)
   ▸ SWatch360 Flutter mobile client
 
-leveling_up:
-  ▸ System Design & Distributed Systems
+leveling_up: ▸ System Design & Distributed Systems
   ▸ Kafka · CQRS · Kubernetes
   ▸ Multi-Agent AI · LLM Fine-tuning
 ```
@@ -69,21 +67,27 @@ leveling_up:
 <div align="center">
 
 ### 🔤 Languages
+
 [![Skills](https://skillicons.dev/icons?i=java,python,ts,js,dart,cpp,html,css&perline=8)](https://skillicons.dev)
 
 ### 🖥️ Frontend & Mobile
+
 [![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui,flutter&perline=8)](https://skillicons.dev)
 
 ### ⚙️ Backend
+
 [![Skills](https://skillicons.dev/icons?i=spring,nodejs,fastapi,express&perline=8)](https://skillicons.dev)
 
 ### 🗄️ Databases & Cache
+
 [![Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase&perline=8)](https://skillicons.dev)
 
 ### ☁️ DevOps & Cloud
+
 [![Skills](https://skillicons.dev/icons?i=docker,githubactions,aws,vercel,nginx,git&perline=8)](https://skillicons.dev)
 
 ### 🤖 AI · ML · Vector
+
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Sarvam‑M](https://img.shields.io/badge/Sarvam--M_LLM-EC38BC?style=for-the-badge)
@@ -94,6 +98,7 @@ leveling_up:
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-7303c0?style=for-the-badge)
 
 ### 📡 IoT & Hardware
+
 [![Skills](https://skillicons.dev/icons?i=arduino,raspberrypi&perline=8)](https://skillicons.dev)
 ![ThingsBoard](https://img.shields.io/badge/ThingsBoard-1E88E5?style=for-the-badge)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge)
@@ -165,12 +170,6 @@ leveling_up:
 
 <br/>
 
-<!-- <img width="96%"
-  src="https://github-profile-trophy-ak-git-master-itinerant018aks-projects.vercel.app/?username=Itinerant18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"
-  alt="GitHub Trophies" />
-
-<br/> -->
-
 <img width="96%"
   src="https://github-readme-activity-graph.vercel.app/graph?username=Itinerant18&theme=tokyo-night&hide_border=true&area=true&color=EC38BC&line=7303c0&point=ffffff"
   alt="Contribution Graph" />
@@ -206,16 +205,16 @@ leveling_up:
 
 ![Dexter AI](https://img.shields.io/badge/🤖_Dexter_Tech_Support_AI-IN_DEVELOPMENT-EC38BC?style=for-the-badge)
 
-| Layer | Tech | Status |
-|:-----:|:-----|:------:|
-| 🤖 LLM | Sarvam-M · OpenAI fallback | 🟡 Active |
-| 📚 RAG | Supabase pgvector → Pinecone | 🟡 Active |
-| ⚡ Cache | Upstash Redis | ✅ Done |
-| 🖥️ Web | Next.js 16 · React 19 · TypeScript | 🟡 Active |
-| 📱 Mobile | Flutter — SWatch360 | 🟡 Active |
-| ⚙️ API | Spring Boot · REST + WebSocket | 🔵 Dev |
-| 📊 IoT | ThingsBoard PE · MQTT | ✅ Done |
-| 🐳 Infra | Docker Compose · GitHub Actions | ✅ Done |
+|   Layer   | Tech                               |  Status   |
+| :-------: | :--------------------------------- | :-------: |
+|  🤖 LLM   | Sarvam-M · OpenAI fallback         | 🟡 Active |
+|  📚 RAG   | Supabase pgvector → Pinecone       | 🟡 Active |
+| ⚡ Cache  | Upstash Redis                      |  ✅ Done  |
+|  🖥️ Web   | Next.js 16 · React 19 · TypeScript | 🟡 Active |
+| 📱 Mobile | Flutter — SWatch360                | 🟡 Active |
+|  ⚙️ API   | Spring Boot · REST + WebSocket     |  🔵 Dev   |
+|  📊 IoT   | ThingsBoard PE · MQTT              |  ✅ Done  |
+| 🐳 Infra  | Docker Compose · GitHub Actions    |  ✅ Done  |
 
 ![Progress](https://img.shields.io/badge/Build_Progress-64%25-7303c0?style=for-the-badge)
 
@@ -251,31 +250,33 @@ leveling_up:
 <td valign="top" width="50%">
 
 ### 🎮 Genshin Roster
-| | Character | Role |
-|:--:|:---------|:-----|
-| ⚡ | **Raiden Shogun** | Main DPS |
-| 🌿 | **Tighnari** | Sub DPS |
-| 🔥 | **Xiangling** | Buffer |
-| 💧 | **Barbara** | Healer |
-| 🔥 | **Bennett** | ATK Buffer |
-| 🛡️ | **Thoma** | Shielder |
-| 🌿 | **Yaoyao** | Dendro Healer |
-| ❄️ | **Kaeya** | Cryo Flex |
+
+|     | Character         | Role          |
+| :-: | :---------------- | :------------ |
+| ⚡  | **Raiden Shogun** | Main DPS      |
+| 🌿  | **Tighnari**      | Sub DPS       |
+| 🔥  | **Xiangling**     | Buffer        |
+| 💧  | **Barbara**       | Healer        |
+| 🔥  | **Bennett**       | ATK Buffer    |
+| 🛡️  | **Thoma**         | Shielder      |
+| 🌿  | **Yaoyao**        | Dendro Healer |
+| ❄️  | **Kaeya**         | Cryo Flex     |
 
 </td>
 <td valign="top" width="50%">
 
 ### 🧙 Dev Stats
-| | |
-|:--|:--|
-| ⚔️ Level | Junior Executive Eng. |
-| 🏢 Guild | SEPLe — R&D |
-| 🌟 Class | Full-Stack + RAG Mage |
-| 🗺️ Server | Kolkata, IN 🇮🇳 |
-| 📦 XP | 632+ commits |
-| 🔭 Quest | Dexter Tech Support AI |
-| 🌱 Training | Flutter · System Design |
-| 🎯 Next Boss | Kafka · CQRS · K8s |
+
+|              |                         |
+| :----------- | :---------------------- |
+| ⚔️ Level     | Junior Executive Eng.   |
+| 🏢 Guild     | SEPLe — R&D             |
+| 🌟 Class     | Full-Stack + RAG Mage   |
+| 🗺️ Server    | Kolkata, IN 🇮🇳          |
+| 📦 XP        | 632+ commits            |
+| 🔭 Quest     | Dexter Tech Support AI  |
+| 🌱 Training  | Flutter · System Design |
+| 🎯 Next Boss | Kafka · CQRS · K8s      |
 
 </td>
 </tr>
@@ -289,7 +290,7 @@ leveling_up:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itinerant018)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itinerant018)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Itinerant18)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itinerant018@gmail.com)
 
