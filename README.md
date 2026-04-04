@@ -165,11 +165,11 @@ leveling_up:
 
 <br/>
 
-<img width="96%"
+<!-- <img width="96%"
   src="https://github-profile-trophy-ak-git-master-itinerant018aks-projects.vercel.app/?username=Itinerant18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"
   alt="GitHub Trophies" />
 
-<br/>
+<br/> -->
 
 <img width="96%"
   src="https://github-readme-activity-graph.vercel.app/graph?username=Itinerant18&theme=tokyo-night&hide_border=true&area=true&color=EC38BC&line=7303c0&point=ffffff"
