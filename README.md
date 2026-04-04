@@ -216,13 +216,15 @@ side_channels:
 <br/>
 
 <img width="100%"
-  src="https://github-profile-trophy.vercel.app/?username=Itinerant18&theme=tokyonight&no-frame=true&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"
+  src="https://github-readme-stats-tawny-pi-56.vercel.app/api?username=Itinerant18&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github"
+  alt="Aniket GitHub Stats" />
   alt="GitHub Trophies" />
 
 <br/>
 
 <img width="100%"
-  src="https://github-readme-stats-tawny-pi-56.vercel.app/graph?username=Itinerant18&theme=tokyo-night&hide_border=true&area=true&color=EC38BC&line=7303c0&point=ffffff"
+  src="https://github-readme-stats-tawny-pi-56.vercel.app/api?username=Itinerant18&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github"
+  alt="Aniket GitHub Stats" />
   alt="Activity Graph" />
 
 </div>
