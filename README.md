@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001e,40:7303c0,80:ec38bc,100:fdeff9&height=240&section=header&text=Aniket%20Karmakar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Architect%20%7C%20AI%2FML%20Engineer%20%7C%20IoT%20Platform%20Builder&descAlignY=60&descAlign=50&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001e,40:7303c0,80:ec38bc,100:fdeff9&height=240&section=header&text=Aniket%20Chakraborty&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Architect%20%7C%20AI%2FML%20Engineer%20%7C%20IoT%20Platform%20Builder&descAlignY=60&descAlign=50&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=EC38BC&center=true&vCenter=true&width=720&height=45&lines=🧠+Designing+Enterprise+RAG+%26+AI+Systems;💻+Next.js+16+%2B+Spring+Boot+%2B+TypeScript;⚡+Industrial+IoT+Platform+Architect;🤖+Multilingual+LLM+Pipeline+Engineer;🏢+Junior+Executive+Engineer+%40+SEPLe" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=EC38BC&center=true&vCenter=true&width=760&height=45&lines=Designing+Enterprise+RAG+%26+AI+Systems;Next.js+16+%2B+Spring+Boot+%2B+TypeScript+Fullstack;Industrial+IoT+Platform+Architect;Multilingual+LLM+Pipeline+Engineer;Junior+Executive+Engineer+%40+SEPLe" />
 
 <br/>
 
@@ -31,7 +31,7 @@
 <td valign="top" width="55%">
 
 ```yaml
-name    : Aniket Karmakar
+name    : Aniket Chakraborty
 role    : Junior Executive Engineer — R&D
 company : Security Engineers Pvt. Ltd.
 base    : Kolkata, India 🇮🇳
@@ -167,7 +167,7 @@ leveling_up:
 <br/>
 
 <img width="96%"
-  src="https://github-profile-trophy-ak-git-master-itinerant018aks-projects.vercel.app/?username=Itinerant18&theme=tokyonight&no-frame=true&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"
+  src="https://github-profile-trophy-ak-git-master-itinerant018aks-projects.vercel.app/?username=Itinerant18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"
   alt="GitHub Trophies" />
 
 <br/>
