@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001e,40:7303c0,80:ec38bc,100:fdeff9&height=230&section=header&text=Aniket%20Karmakar&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Architect%20%7C%20AI%2FML%20Engineer%20%7C%20IoT%20Platform%20Builder&descAlignY=60&descAlign=50&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001e,40:7303c0,80:ec38bc,100:fdeff9&height=230&section=header&text=Aniket%20Chakraborty&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Architect%20%7C%20AI%2FML%20Engineer%20%7C%20IoT%20Platform%20Builder&descAlignY=60&descAlign=50&descSize=17" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=EC38BC&center=true&vCenter=true&width=700&height=40&lines=Designing+Enterprise+RAG+%26+AI+Systems+%F0%9F%A7%A0;Spring+Boot+%2B+Next.js+%2B+TypeScript+Fullstack+%F0%9F%92%BB;Industrial+IoT+Platform+Architect+%E2%9A%A1;Multilingual+LLM+Pipeline+Engineer+%F0%9F%A4%96;Building+Dexter+Tech+Support+AI+%40+SEPLe+%F0%9F%8F%A2" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aniket_Karmakar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/itinerant018)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aniket_Chakraborty-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/itinerant018)
 [![GitHub](https://img.shields.io/badge/GitHub-Itinerant18-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Itinerant18)
 [![Email](https://img.shields.io/badge/Gmail-itinerant018@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:itinerant018@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-7303c0?style=flat-square&logo=githubpages&logoColor=white)](https://github.com/Itinerant18?tab=repositories)
@@ -29,7 +29,7 @@
 # /etc/profile.d/aniket.yml
 ---
 identity:
-  name: Aniket Karmakar
+  name: Aniket Chakraborty
   alias: Itinerant18
   role: Junior Executive Engineer — R&D
   org: Security Engineers Pvt. Ltd. (SEPLe)
@@ -201,10 +201,10 @@ side_channels:
 <div align="center">
 
 <img height="165"
-  src="https://github-readme-stats-tawny-pi-56.vercel.app/api?username=Itinerant18&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github"
+  src="https://github-readme-stats.vercel.app/api?username=Itinerant18&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github"
   alt="Aniket GitHub Stats" />
 <img height="165"
-  src="https://github-readme-stats-tawny-pi-56.vercel.app/api/top-langs/?username=Itinerant18&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=320"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itinerant18&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=320"
   alt="Top Languages" />
 
 <br/>
@@ -216,20 +216,18 @@ side_channels:
 <br/>
 
 <img width="100%"
-  src="https://github-readme-stats-tawny-pi-56.vercel.app/api?username=Itinerant18&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github"
-  alt="Aniket GitHub Stats" />
+  src="https://github-profile-trophy.vercel.app/?username=Itinerant18&theme=tokyonight&no-frame=true&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"
   alt="GitHub Trophies" />
 
 <br/>
 
 <img width="100%"
-  src="https://github-readme-stats-tawny-pi-56.vercel.app/api?username=Itinerant18&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github"
-  alt="Aniket GitHub Stats" />
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Itinerant18&theme=tokyo-night&hide_border=true&area=true&color=EC38BC&line=7303c0&point=ffffff"
   alt="Activity Graph" />
 
 </div>
 
-> **⚠️ Stats cards not loading?** The shared `github-readme-stats-tawny-pi-56.vercel.app` is rate-limited.
+> **⚠️ Stats cards not loading?** The shared `github-readme-stats.vercel.app` is rate-limited.
 > **Fix:** Fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) → deploy to your own Vercel with `GITHUB_TOKEN` env var → replace the domain above.
 
 ---
@@ -341,7 +339,7 @@ side_channels:
 <br/>
 
 > *"Architecture is the decisions made early — the rest is just code."*
-> — **Aniket Karmakar**
+> — **Aniket Chakraborty**
 
 <br/>
 
