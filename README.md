@@ -1,273 +1,228 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001e,40:7303c0,80:ec38bc,100:fdeff9&height=230&section=header&text=Aniket%20Chakraborty&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Architect%20%7C%20AI%2FML%20Engineer%20%7C%20IoT%20Platform%20Builder&descAlignY=60&descAlign=50&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001e,40:7303c0,80:ec38bc,100:fdeff9&height=240&section=header&text=Aniket%20Chakraborty&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Architect%20%7C%20AI%2FML%20Engineer%20%7C%20IoT%20Platform%20Builder&descAlignY=60&descAlign=50&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=EC38BC&center=true&vCenter=true&width=700&height=40&lines=Designing+Enterprise+RAG+%26+AI+Systems+%F0%9F%A7%A0;Spring+Boot+%2B+Next.js+%2B+TypeScript+Fullstack+%F0%9F%92%BB;Industrial+IoT+Platform+Architect+%E2%9A%A1;Multilingual+LLM+Pipeline+Engineer+%F0%9F%A4%96;Building+Dexter+Tech+Support+AI+%40+SEPLe+%F0%9F%8F%A2" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=EC38BC&center=true&vCenter=true&width=720&height=45&lines=🧠+Designing+Enterprise+RAG+%26+AI+Systems;💻+Next.js+16+%2B+Spring+Boot+%2B+TypeScript;⚡+Industrial+IoT+Platform+Architect;🤖+Multilingual+LLM+Pipeline+Engineer;🏢+Junior+Executive+Engineer+%40+SEPLe" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aniket_Chakraborty-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/itinerant018)
-[![GitHub](https://img.shields.io/badge/GitHub-Itinerant18-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Itinerant18)
-[![Email](https://img.shields.io/badge/Gmail-itinerant018@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:itinerant018@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-7303c0?style=flat-square&logo=githubpages&logoColor=white)](https://github.com/Itinerant18?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itinerant018)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Itinerant18)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itinerant018@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7303c0?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/Itinerant18?tab=repositories)
+
+<br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Itinerant18&color=EC38BC&style=flat-square&label=Profile+Views)](https://github.com/Itinerant18)
 [![Followers](https://img.shields.io/github/followers/Itinerant18?style=flat-square&color=7303c0&label=Followers&logo=github)](https://github.com/Itinerant18?tab=followers)
-[![Repos](https://img.shields.io/badge/Public%20Repos-36-EC38BC?style=flat-square&logo=github)](https://github.com/Itinerant18?tab=repositories)
+[![Active Since](https://img.shields.io/badge/Active%20Since-Nov%202021-EC38BC?style=flat-square)](https://github.com/Itinerant18)
+[![Commits](https://img.shields.io/badge/Commits-632+-7303c0?style=flat-square&logo=git&logoColor=white)](https://github.com/Itinerant18)
 
 </div>
 
 ---
 
-## 👤 Identity Stack
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
 <table>
 <tr>
-<td valign="top" width="58%">
+<td valign="top" width="55%">
 
 ```yaml
-# /etc/profile.d/aniket.yml
----
-identity:
-  name: Aniket Chakraborty
-  alias: Itinerant18
-  role: Junior Executive Engineer — R&D
-  org: Security Engineers Pvt. Ltd. (SEPLe)
-  location: Kolkata, India 🇮🇳
+name    : Aniket Chakraborty
+role    : Junior Executive Engineer — R&D
+company : Security Engineers Pvt. Ltd.
+base    : Kolkata, India 🇮🇳
 
-engineering_focus:
-  - Enterprise RAG & LLM pipelines
-  - Full-stack (Next.js + Spring Boot)
-  - Industrial IoT platforms (ThingsBoard)
-  - AI-native product development
+focus:
+  ▸ Enterprise RAG & LLM pipelines
+  ▸ Full-stack · Next.js + Spring Boot
+  ▸ Industrial IoT · ThingsBoard
+  ▸ AI-native product development
 
-in_progress:
-  - "Dexter Tech Support AI" [RAG · Sarvam-M · pgvector]
-  - "SWatch360" Flutter mobile client
-  - Leveling up: System Design & Architecture
+currently_building:
+  ▸ Dexter Tech Support AI (RAG · Sarvam-M)
+  ▸ SWatch360 Flutter mobile client
 
-side_channels:
-  gaming: "Genshin Impact — Raiden Shogun ⚡ main"
-  hardware_biz: "IoT temperature sensor reseller"
-  learning: "Flutter | DevOps | Distributed Systems"
+leveling_up:
+  ▸ System Design & Distributed Systems
+  ▸ Kafka · CQRS · Kubernetes
+  ▸ Multi-Agent AI · LLM Fine-tuning
 ```
 
 </td>
-<td valign="top" width="42%" align="center">
+<td valign="top" width="45%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="290" alt="Coding" />
-
-<br/><br/>
-
-![Commits](https://img.shields.io/badge/Total%20Commits-632+-EC38BC?style=flat-square&logo=git&logoColor=white)
-![Since](https://img.shields.io/badge/Active%20Since-Nov%202021-7303c0?style=flat-square)
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
 
 </td>
 </tr>
 </table>
 
----
-
-## 🏛️ Architecture — What I've Mastered
-
-> Patterns I've shipped in real projects & production systems.
-
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                  ARCHITECTURE PATTERNS  ✅  BATTLE-TESTED               │
-├──────────────────────────┬──────────────────────────────────────────────┤
-│  🧱 Application Layer    │  MVC · Layered Architecture · REST API       │
-│                          │  design · Controller-Service-Repository      │
-├──────────────────────────┼──────────────────────────────────────────────┤
-│  🔐 Auth & Security      │  JWT / OAuth2 · Role-based access control    │
-│                          │  Spring Security · Session management        │
-├──────────────────────────┼──────────────────────────────────────────────┤
-│  🤖 AI / RAG Systems     │  Embedding pipelines · pgvector semantic     │
-│                          │  search · Retrieval-Augmented Generation     │
-│                          │  · Prompt engineering · LLM orchestration    │
-├──────────────────────────┼──────────────────────────────────────────────┤
-│  📦 Containerization     │  Docker · Docker Compose · multi-service     │
-│                          │  container networking · env management       │
-├──────────────────────────┼──────────────────────────────────────────────┤
-│  📡 IoT Architecture     │  ThingsBoard telemetry pipelines · MQTT      │
-│                          │  · sensor data ingestion · widget SDK        │
-├──────────────────────────┼──────────────────────────────────────────────┤
-│  🖥️ Frontend Systems     │  Component-driven design · SSR (Next.js)     │
-│                          │  · API route handlers · state management     │
-├──────────────────────────┼──────────────────────────────────────────────┤
-│  🗄️ Data Patterns        │  Relational (PostgreSQL · MySQL) · NoSQL     │
-│                          │  (MongoDB) · Vector DB · Redis caching       │
-└──────────────────────────┴──────────────────────────────────────────────┘
-```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## 🚀 Architecture — Currently Leveling Up
-
-> Patterns I'm actively learning, prototyping, and internalizing.
-
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                   ARCHITECTURE ROADMAP  🔥  IN PROGRESS                 │
-├──────────────────────────┬──────────────────┬───────────────────────────┤
-│  Domain                  │  Pattern         │  Progress                 │
-├──────────────────────────┼──────────────────┼───────────────────────────┤
-│  🏗️ System Design        │  HLD / LLD       │  ████████░░░  75%         │
-│  Distributed Systems     │  CAP Theorem     │  ██████░░░░░  55%         │
-│                          │  Consistent Hash │  █████░░░░░░  45%         │
-├──────────────────────────┼──────────────────┼───────────────────────────┤
-│  📨 Event-Driven Arch    │  Kafka / MQ      │  ████░░░░░░░  40%         │
-│                          │  CQRS pattern    │  ███░░░░░░░░  30%         │
-│                          │  Event Sourcing  │  ██░░░░░░░░░  20%         │
-├──────────────────────────┼──────────────────┼───────────────────────────┤
-│  🧠 Advanced AI / RAG    │  HyDE retrieval  │  ██████░░░░░  55%         │
-│                          │  Re-ranking      │  █████░░░░░░  45%         │
-│                          │  Multi-Agent     │  ████░░░░░░░  35%         │
-│                          │  LLM fine-tuning │  ███░░░░░░░░  25%         │
-├──────────────────────────┼──────────────────┼───────────────────────────┤
-│  ☸️  DevOps / Platform   │  GitHub Actions  │  ███████░░░░  65%         │
-│                          │  Kubernetes      │  ███░░░░░░░░  28%         │
-│                          │  Observability   │  ████░░░░░░░  35%         │
-├──────────────────────────┼──────────────────┼───────────────────────────┤
-│  📱 Mobile Architecture  │  Flutter Clean   │  █████░░░░░░  48%         │
-│                          │  BLoC / Riverpod │  ████░░░░░░░  38%         │
-└──────────────────────────┴──────────────────┴───────────────────────────┘
-```
-
----
-
-## 🎯 Senior Engineering Principles I Code By
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack
 
 <div align="center">
 
-| Principle | Application in My Work |
-|:---:|:---|
-| **Design for failure** | Redis fallback caching in RAG; Supabase → Pinecone scaling path |
-| **Separation of concerns** | Spring Boot service layers · React feature-based folder structure |
-| **Observability first** | Structured logging · token usage tracking · latency metrics in LLM calls |
-| **Data contracts** | TypeScript strict mode everywhere · Zod schema validation at API edges |
-| **Semantic versioning** | All APIs follow semver; breaking changes tracked in CHANGELOG |
-| **Infrastructure as code** | Docker Compose for all services; GitHub Actions for CI pipelines |
-| **Domain-driven language** | Ubiquitous language bridging backend models and frontend state |
-
-</div>
-
----
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-**Languages**
+### 🔤 Languages
 [![Skills](https://skillicons.dev/icons?i=java,python,ts,js,dart,cpp,html,css&perline=8)](https://skillicons.dev)
 
-**Frontend & Mobile**
+### 🖥️ Frontend & Mobile
 [![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui,flutter&perline=8)](https://skillicons.dev)
 
-**Backend**
+### ⚙️ Backend
 [![Skills](https://skillicons.dev/icons?i=spring,nodejs,fastapi,express&perline=8)](https://skillicons.dev)
 
-**AI · ML · Vector**
-
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Sarvam-M](https://img.shields.io/badge/Sarvam--M_LLM-EC38BC?style=flat-square)
-![Pinecone](https://img.shields.io/badge/Pinecone-0EAD69?style=flat-square)
-![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Upstash](https://img.shields.io/badge/Upstash_Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-7303c0?style=flat-square)
-
-**Databases**
+### 🗄️ Databases & Cache
 [![Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase&perline=8)](https://skillicons.dev)
 
-**DevOps & Cloud**
+### ☁️ DevOps & Cloud
 [![Skills](https://skillicons.dev/icons?i=docker,githubactions,aws,vercel,nginx,git&perline=8)](https://skillicons.dev)
 
-**IoT & Hardware**
-[![Skills](https://skillicons.dev/icons?i=arduino,raspberrypi&perline=8)](https://skillicons.dev)
-![ThingsBoard](https://img.shields.io/badge/ThingsBoard-1E88E5?style=flat-square)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square)
+### 🤖 AI · ML · Vector
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Sarvam‑M](https://img.shields.io/badge/Sarvam--M_LLM-EC38BC?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-0EAD69?style=for-the-badge)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Upstash](https://img.shields.io/badge/Upstash_Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-7303c0?style=for-the-badge)
 
-**Tools**
-[![Skills](https://skillicons.dev/icons?i=vscode,idea,postman,figma,git&perline=8)](https://skillicons.dev)
+### 📡 IoT & Hardware
+[![Skills](https://skillicons.dev/icons?i=arduino,raspberrypi&perline=8)](https://skillicons.dev)
+![ThingsBoard](https://img.shields.io/badge/ThingsBoard-1E88E5?style=for-the-badge)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge)
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ---
 
-## 📊 GitHub Analytics
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> Architecture Mastery
 
 <div align="center">
 
-<img height="165"
-  src="https://https://github-readme-stats-tawny-pi-56.vercel.app//api?username=Itinerant18&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github"
-  alt="Aniket GitHub Stats" />
-<img height="165"
-  src="https://https://github-readme-stats-tawny-pi-56.vercel.app//api/top-langs/?username=Itinerant18&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=320"
+### ✅ Battle-Tested
+
+![MVC](https://img.shields.io/badge/MVC_Architecture-✅-2ea44f?style=flat-square)
+![REST API](https://img.shields.io/badge/REST_API_Design-✅-2ea44f?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT_%2F_OAuth2-✅-2ea44f?style=flat-square)
+![Spring Security](https://img.shields.io/badge/Spring_Security-✅-2ea44f?style=flat-square)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-✅-2ea44f?style=flat-square)
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-✅-2ea44f?style=flat-square)
+![LLM Orchestration](https://img.shields.io/badge/LLM_Orchestration-✅-2ea44f?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker_Compose-✅-2ea44f?style=flat-square)
+![ThingsBoard IoT](https://img.shields.io/badge/ThingsBoard_IoT-✅-2ea44f?style=flat-square)
+![MQTT](https://img.shields.io/badge/MQTT_Telemetry-✅-2ea44f?style=flat-square)
+![SSR Next.js](https://img.shields.io/badge/SSR_Next.js-✅-2ea44f?style=flat-square)
+![Component Architecture](https://img.shields.io/badge/Component_Architecture-✅-2ea44f?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector_%2F_Vector_DB-✅-2ea44f?style=flat-square)
+![Redis Caching](https://img.shields.io/badge/Redis_Caching-✅-2ea44f?style=flat-square)
+
+### 🔥 Currently Learning
+
+![System Design](https://img.shields.io/badge/System_Design_HLD%2FLLD-75%25-EC38BC?style=flat-square)
+![CAP Theorem](https://img.shields.io/badge/CAP_Theorem-55%25-EC38BC?style=flat-square)
+![Kafka](https://img.shields.io/badge/Kafka_%2F_Event_Driven-40%25-EC38BC?style=flat-square)
+![CQRS](https://img.shields.io/badge/CQRS_Pattern-30%25-7303c0?style=flat-square)
+![Event Sourcing](https://img.shields.io/badge/Event_Sourcing-20%25-7303c0?style=flat-square)
+![HyDE Retrieval](https://img.shields.io/badge/HyDE_Retrieval-55%25-EC38BC?style=flat-square)
+![Multi-Agent AI](https://img.shields.io/badge/Multi--Agent_AI-35%25-7303c0?style=flat-square)
+![LLM Fine-tuning](https://img.shields.io/badge/LLM_Fine--Tuning-25%25-7303c0?style=flat-square)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-28%25-7303c0?style=flat-square)
+![Observability](https://img.shields.io/badge/Observability-35%25-7303c0?style=flat-square)
+![Flutter BLoC](https://img.shields.io/badge/Flutter_BLoC_%2F_Riverpod-38%25-EC38BC?style=flat-square)
+![Clean Arch](https://img.shields.io/badge/Flutter_Clean_Arch-48%25-EC38BC?style=flat-square)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
+
+<div align="center">
+
+<img height="180"
+  src="https://github-readme-stats-tawny-pi-56.vercel.app/api?username=Itinerant18&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github"
+  alt="GitHub Stats" />
+<img height="180"
+  src="https://github-readme-stats-tawny-pi-56.vercel.app/api/top-langs/?username=Itinerant18&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=340"
   alt="Top Languages" />
 
-<br/>
+<br/><br/>
 
-<img width="100%"
-  src="https://streak-stats.demolab.com?user=Itinerant18&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=EC38BC&ring=7303c0&sideLabels=EC38BC"
+<img width="96%"
+  src="https://streak-stats.demolab.com?user=Itinerant18&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=EC38BC&ring=7303c0&sideLabels=EC38BC&currStreakLabel=EC38BC"
   alt="GitHub Streak" />
 
 <br/>
 
-<img width="100%"
+<img width="96%"
   src="https://github-profile-trophy.vercel.app/?username=Itinerant18&theme=tokyonight&no-frame=true&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"
   alt="GitHub Trophies" />
 
 <br/>
 
-<img width="100%"
+<img width="96%"
   src="https://github-readme-activity-graph.vercel.app/graph?username=Itinerant18&theme=tokyo-night&hide_border=true&area=true&color=EC38BC&line=7303c0&point=ffffff"
-  alt="Activity Graph" />
+  alt="Contribution Graph" />
 
 </div>
 
-> **⚠️ Stats cards not loading?** The shared `https://github-readme-stats-tawny-pi-56.vercel.app/` is rate-limited.
-> **Fix:** Fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) → deploy to your own Vercel with `GITHUB_TOKEN` env var → replace the domain above.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Featured Projects
 
 <div align="center">
 
-| Project | What It Does | Stack | Status |
-|:-------:|:-------------|:------|:------:|
-| [🤖 **Dexter Tech Support AI**](https://github.com/Itinerant18/Swacth360_bot) | Enterprise multilingual RAG assistant for Industrial IoT & HMS control panels | `Next.js 16` `React 19` `TypeScript` `Sarvam-M` `pgvector` `Pinecone` `Upstash` | 🟡 Active |
-| [📱 **SWatch360 Mobile**](https://github.com/Itinerant18/SWatch360) | Flutter mobile client for ThingsBoard PE IoT dashboards with live telemetry | `Flutter` `Dart` `ThingsBoard PE` `MQTT` | 🟡 Active |
-| [📚 **Pookies AI Zone**](https://github.com/Itinerant18/pookies-ai-zone) | Discover & manage 1000+ AI tools across 45+ categories — mobile-first | `Expo` `React Native` `TypeScript` `Convex` `FastAPI` | 🟡 Active |
-| [📡 **ThingsBoard AI Bot**](https://github.com/Itinerant18/ThingsBoard---Bot) | Conversational layer for ThingsBoard dashboards — live device Q&A | `Python` `Flask` `OpenAI` `ThingsBoard API` | 🟡 Active |
-| [🏦 **AI Financial Advisor**](https://github.com/Itinerant18/Financial-Advisor) | AI-powered finance adviser web app with OpenAI integration | `React` `TypeScript` `Express.js` `OpenAI` | 🔵 Dev |
-| [🚁 **HawkEye-Drone**](https://github.com/Itinerant18/HawkEye-Drone) | AI-ready quadcopter with Pixhawk/APM + computer vision upgrade path | `Raspberry Pi` `Jetson` `OpenCV` `Python` | 🔵 Dev |
-| [♟️ **Chessverse Battlefield**](https://github.com/Itinerant18/chessverse-battlefield) | Full chess engine with multiplayer battle mode | `React` `TypeScript` | ✅ Done |
+[![Dexter AI](https://github-readme-stats-tawny-pi-56.vercel.app/api/pin/?username=Itinerant18&repo=Swacth360_bot&theme=tokyonight&hide_border=true&title_color=EC38BC&icon_color=7303c0)](https://github.com/Itinerant18/Swacth360_bot)
+[![SWatch360](https://github-readme-stats-tawny-pi-56.vercel.app/api/pin/?username=Itinerant18&repo=SWatch360&theme=tokyonight&hide_border=true&title_color=EC38BC&icon_color=7303c0)](https://github.com/Itinerant18/SWatch360)
+
+[![Pookies AI Zone](https://github-readme-stats-tawny-pi-56.vercel.app/api/pin/?username=Itinerant18&repo=pookies-ai-zone&theme=tokyonight&hide_border=true&title_color=EC38BC&icon_color=7303c0)](https://github.com/Itinerant18/pookies-ai-zone)
+[![ThingsBoard Bot](https://github-readme-stats-tawny-pi-56.vercel.app/api/pin/?username=Itinerant18&repo=ThingsBoard---Bot&theme=tokyonight&hide_border=true&title_color=EC38BC&icon_color=7303c0)](https://github.com/Itinerant18/ThingsBoard---Bot)
+
+[![Financial Advisor](https://github-readme-stats-tawny-pi-56.vercel.app/api/pin/?username=Itinerant18&repo=Financial-Advisor&theme=tokyonight&hide_border=true&title_color=EC38BC&icon_color=7303c0)](https://github.com/Itinerant18/Financial-Advisor)
+[![HawkEye Drone](https://github-readme-stats-tawny-pi-56.vercel.app/api/pin/?username=Itinerant18&repo=HawkEye-Drone&theme=tokyonight&hide_border=true&title_color=EC38BC&icon_color=7303c0)](https://github.com/Itinerant18/HawkEye-Drone)
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
 ## 🔨 Currently Building
 
-```
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║    🚧  ACTIVE — Dexter Tech Support AI  (Swacth360_bot)                      ║
-╠══════════════════════╦════════════════════════════════════════════════════════╣
-║  🤖  LLM Layer       ║  Sarvam-M (multilingual) · OpenAI fallback            ║
-║  📚  RAG Layer       ║  Supabase pgvector → Pinecone (scaling path)          ║
-║  ⚡  Cache Layer     ║  Upstash Redis — semantic cache + rate limiter        ║
-║  🖥️  Web Frontend    ║  Next.js 16 · React 19 · TypeScript · Tailwind        ║
-║  📱  Mobile Client   ║  Flutter — SWatch360 companion app                    ║
-║  ⚙️  API Backend     ║  Spring Boot Java · REST + WebSocket layers           ║
-║  📊  IoT Data        ║  ThingsBoard PE · live sensor telemetry               ║
-║  🐳  Infra           ║  Docker Compose · GitHub Actions CI                   ║
-╠══════════════════════╩════════════════════════════════════════════════════════╣
-║  Build Progress   ████████████████░░░░░░░░  64%                              ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+
+![Dexter AI](https://img.shields.io/badge/🤖_Dexter_Tech_Support_AI-IN_DEVELOPMENT-EC38BC?style=for-the-badge)
+
+| Layer | Tech | Status |
+|:-----:|:-----|:------:|
+| 🤖 LLM | Sarvam-M · OpenAI fallback | 🟡 Active |
+| 📚 RAG | Supabase pgvector → Pinecone | 🟡 Active |
+| ⚡ Cache | Upstash Redis | ✅ Done |
+| 🖥️ Web | Next.js 16 · React 19 · TypeScript | 🟡 Active |
+| 📱 Mobile | Flutter — SWatch360 | 🟡 Active |
+| ⚙️ API | Spring Boot · REST + WebSocket | 🔵 Dev |
+| 📊 IoT | ThingsBoard PE · MQTT | ✅ Done |
+| 🐳 Infra | Docker Compose · GitHub Actions | ✅ Done |
+
+![Progress](https://img.shields.io/badge/Build_Progress-64%25-7303c0?style=for-the-badge)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
@@ -284,47 +239,50 @@ side_channels:
   </picture>
 </div>
 
-> **Snake not showing?** Create `.github/workflows/snake.yml` in your profile repo — see setup below ⬇️
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
 ## ⚔️ Character Sheet
 
+<div align="center">
+
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### 🎮 Genshin Impact Roster
-| Slot | Character | Role |
-|:----:|:---------|:-----|
-| Main DPS | **Raiden Shogun** ⚡ | Electro Archon |
-| Sub DPS | **Tighnari** 🌿 | Dendro Bow |
-| Buffer | **Xiangling** 🔥 | Pyro Polearm |
-| Healer | **Barbara** 💧 | Hydro Catalyst |
-| Flex | **Bennett** 🔥 | ATK Buffer |
-| Shield | **Thoma** 🛡️ | Shielder |
-| Dendro | **Yaoyao** 🌿 | Healer |
-| Utility | **Kaeya** ❄️ | Cryo Flex |
+### 🎮 Genshin Roster
+| | Character | Role |
+|:--:|:---------|:-----|
+| ⚡ | **Raiden Shogun** | Main DPS |
+| 🌿 | **Tighnari** | Sub DPS |
+| 🔥 | **Xiangling** | Buffer |
+| 💧 | **Barbara** | Healer |
+| 🔥 | **Bennett** | ATK Buffer |
+| 🛡️ | **Thoma** | Shielder |
+| 🌿 | **Yaoyao** | Dendro Healer |
+| ❄️ | **Kaeya** | Cryo Flex |
 
 </td>
 <td valign="top" width="50%">
 
-### 🧙 Dev Character Sheet
-| Stat | Value |
-|:-----|:------|
-| ⚔️ **Level** | Junior Executive Engineer |
-| 🏢 **Guild** | SEPLe — R&D Division |
-| 🌟 **Class** | Full-Stack + RAG Architect |
-| 🗺️ **Server** | Kolkata, IN 🇮🇳 |
-| 📦 **Commits** | 632+ (Nov 2021 – now) |
-| 🔭 **Main Quest** | Dexter Tech Support AI |
-| 🌱 **Side Quest** | Flutter + System Design |
-| 💼 **Side Biz** | IoT Temp Sensors 🌡️ |
-| 🎯 **Next Boss** | Kafka · CQRS · K8s |
+### 🧙 Dev Stats
+| | |
+|:--|:--|
+| ⚔️ Level | Junior Executive Eng. |
+| 🏢 Guild | SEPLe — R&D |
+| 🌟 Class | Full-Stack + RAG Mage |
+| 🗺️ Server | Kolkata, IN 🇮🇳 |
+| 📦 XP | 632+ commits |
+| 🔭 Quest | Dexter Tech Support AI |
+| 🌱 Training | Flutter · System Design |
+| 🎯 Next Boss | Kafka · CQRS · K8s |
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -338,11 +296,10 @@ side_channels:
 
 <br/>
 
-> *"Architecture is the decisions made early — the rest is just code."*
-> — **Aniket Chakraborty**
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fdeff9,40:ec38bc,80:7303c0,100:03001e&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fdeff9,40:ec38bc,80:7303c0,100:03001e&height=130&section=footer" width="100%" />
 
 </div>
