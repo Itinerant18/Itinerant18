@@ -302,4 +302,4 @@ leveling_up: ▸ System Design & Distributed Systems
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fdeff9,40:ec38bc,80:7303c0,100:03001e&height=130&section=footer" width="100%" />
 
-</div
+</div>
