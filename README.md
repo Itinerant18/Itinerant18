@@ -249,18 +249,6 @@ leveling_up: ▸ System Design & Distributed Systems
 <tr>
 <td valign="top" width="50%">
 
-### 🎮 Genshin Roster
-
-|     | Character         | Role          |
-| :-: | :---------------- | :------------ |
-| ⚡  | **Raiden Shogun** | Main DPS      |
-| 🌿  | **Tighnari**      | Sub DPS       |
-| 🔥  | **Xiangling**     | Buffer        |
-| 💧  | **Barbara**       | Healer        |
-| 🔥  | **Bennett**       | ATK Buffer    |
-| 🛡️  | **Thoma**         | Shielder      |
-| 🌿  | **Yaoyao**        | Dendro Healer |
-| ❄️  | **Kaeya**         | Cryo Flex     |
 
 </td>
 <td valign="top" width="50%">
