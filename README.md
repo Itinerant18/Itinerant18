@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001e,40:7303c0,80:ec38bc,100:fdeff9&height=240&section=header&text=Aniket%20Karmakar&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Executive%20Engineer%20—%20R%26D%20%40%20Security%20Engineers%20Pvt.%20Ltd.&descAlignY=60&descAlign=50&descSize=17" width="100%" alt="Aniket Karmakar Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=EC38BC&center=true&vCenter=true&width=800&height=45&lines=Junior+Executive+Engineer+%E2%80%94+R%26D+%40+SEPLe;Distributed+Systems+%7C+Go+%2B+Kafka+%2B+Redis+Cluster;Designing+Autonomous+AI+Agents+%26+Multi-Agent+Systems;Enterprise+Multilingual+RAG+Pipelines+%2B+RAPTOR;IoT+Platform+Architect+%7C+ThingsBoard+%2B+ESP32;Full-Stack+%7C+Next.js+16+%2B+React+19+%2B+Cloudflare+DO" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=EC38BC&center=true&vCenter=true&width=800&height=45&lines=Junior+Executive+Engineer+%E2%80%94+R%26D+%40+SEPLe;Distributed+Systems+%7C+Go+%2B+Kafka+%2B+Redis+Cluster;Autonomous+AI+Agents+%7C+Model+Context+Protocol+(MCP);Enterprise+Multilingual+RAG+Pipelines+%2B+RAPTOR;Industrial+IoT+Architect+%7C+ThingsBoard+%2B+ESP32;Edge+Serverless+%7C+Cloudflare+Durable+Objects" alt="Typing SVG" />
 
 <br/>
 
@@ -20,9 +20,9 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 👨‍💻 About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
 <table>
 <tr>
@@ -56,93 +56,140 @@ currently_exploring:
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 Featured Engineering Projects
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Featured Engineering Projects
 
-### 1. [Vahnly](https://github.com/Itinerant18/Vahnly) — Real-Time Driver-Dispatch Platform
-> **Real-time scheduled & on-demand driver dispatch engine for vehicle owners in Kolkata.**
-- **Architecture:** High-throughput Go backend ingesting driver telemetry streams over gRPC, indexing spatial availability in **Redis H3 res-8 spatial cells**, and publishing events to **Kafka (KRaft)**.
-- **Optimization:** Hungarian and Greedy order matching with **Triton Inference Server** (XGBoost ETA correction) wrapped in a `sony/gobreaker` circuit breaker with contraction-hierarchy road-graph fallback.
-- **Client Surfaces:** Dual Next.js 16 + Capacitor rider and driver applications with WebSocket fan-out and a Vite admin control dashboard.
-- **Stack:** `Go 1.25` · `PostgreSQL / PostGIS` · `Redis 7.2 Cluster` · `Kafka` · `Triton` · `Next.js 16` · `Docker` · `K8s / KEDA`
+<table>
+<tr>
+<td width="50%" valign="top">
+  <div align="left">
+    <h3>🚗 <a href="https://github.com/Itinerant18/Vahnly">Vahnly</a></h3>
+    <p><b>Real-Time Driver-Dispatch Platform</b></p>
+    <p>High-throughput Go backend ingesting driver GPS streams over gRPC, indexing availability in Redis H3 spatial cells, with Hungarian/Greedy matching & Triton ML ETA correction.</p>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redis_H3-DC382D?style=flat-square&logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/Triton_ML-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  </div>
+</td>
+<td width="50%" valign="top">
+  <div align="left">
+    <h3>🤖 <a href="https://github.com/Itinerant18/Seple-Tender-Agent">SEPLE Tender Agent</a></h3>
+    <p><b>Autonomous Procurement Intelligence</b></p>
+    <p>Decision-support system with a custom Model Context Protocol (MCP) server bridge, Playwright scrapers, and LLM reasoning matching complex tender specifications.</p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/MCP_Server-000000?style=flat-square&logo=anthropic&logoColor=white" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+    <img src="https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white" />
+  </div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <div align="left">
+    <h3>🧠 <a href="https://github.com/Itinerant18/Swacth360_bot">Dexter Tech Support AI</a></h3>
+    <p><b>Multilingual Enterprise RAG Assistant</b></p>
+    <p>Industrial IoT assistant with a 21-node RAG pipeline, RAPTOR hierarchical cluster summarization, HyDE embeddings, and two-tier Redis + pgvector caching.</p>
+    <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redis_Cache-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  </div>
+</td>
+<td width="50%" valign="top">
+  <div align="left">
+    <h3>🏠 <a href="https://github.com/Itinerant18/Urban-assist">Urban Assist</a></h3>
+    <p><b>UK Home Services Marketplace Monorepo</b></p>
+    <p>pnpm monorepo powering 3 Next.js 14 web apps (customer, provider, admin) with typed shared packages, Supabase RLS, and Stripe payments.</p>
+    <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+    <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" />
+    <img src="https://img.shields.io/badge/pnpm_Workspaces-F69220?style=flat-square&logo=pnpm&logoColor=white" />
+  </div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <div align="left">
+    <h3>⚡ <a href="https://github.com/Itinerant18/Tic-tac-toe">TicTac Match</a></h3>
+    <p><b>Real-Time Edge Matchmaking & Chat</b></p>
+    <p>Mobile-first social gaming platform built on Cloudflare Workers, Durable Objects (MatchmakerDO, RoomDO), and Cloudflare D1 serverless SQL.</p>
+    <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+    <img src="https://img.shields.io/badge/Durable_Objects-FAAE40?style=flat-square&logo=cloudflare&logoColor=black" />
+    <img src="https://img.shields.io/badge/D1_SQL-F38020?style=flat-square&logo=sqlite&logoColor=white" />
+    <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  </div>
+</td>
+<td width="50%" valign="top">
+  <div align="left">
+    <h3>🛍️ <a href="https://github.com/Itinerant18/Serendipity">Serendipity</a></h3>
+    <p><b>Multi-Platform E-Commerce Ecosystem</b></p>
+    <p>Full-stack marketplace across Web & Expo Mobile with dual-database Supabase architecture, Redis caching, and real-time Socket.IO event FSM.</p>
+    <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Expo_54-000020?style=flat-square&logo=expo&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+    <img src="https://img.shields.io/badge/Razorpay_%26_Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" />
+  </div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <div align="left">
+    <h3>📡 <a href="https://github.com/Itinerant18/SWatch360">SWatch360</a></h3>
+    <p><b>ThingsBoard Industrial IoT Mobile Client</b></p>
+    <p>Flutter app with Clean Architecture & BLoC, on-device ESP32 BLE / SoftAP provisioning, and bidirectional JS-bridge ThingsBoard dashboard WebView.</p>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/ThingsBoard-1E88E5?style=flat-square&logo=thingsboard&logoColor=white" />
+    <img src="https://img.shields.io/badge/ESP32_BLE-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase_FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  </div>
+</td>
+<td width="50%" valign="top">
+  <div align="left">
+    <h3>📊 <a href="https://github.com/Itinerant18/Data_scrapping_thgingsboard_ml-intern">Bank Outage Scorer</a></h3>
+    <p><b>Predictive Infrastructure Analytics</b></p>
+    <p>24-hour predictive power outage warning & diagnostic ticket generation for 135 bank gateways over ThingsBoard with calibrated LightGBM model.</p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square" />
+    <img src="https://img.shields.io/badge/ThingsBoard-1E88E5?style=flat-square&logo=thingsboard&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=black" />
+  </div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <div align="left">
+    <h3>🎯 <a href="https://github.com/Itinerant18/pookies-ai-zone">Pookies AI Zone</a></h3>
+    <p><b>Curated AI Tools Directory & Comparison</b></p>
+    <p>Clay/neumorphic Expo mobile app with Convex DB and automated daily scraping pipeline refreshing 320+ AI tools.</p>
+    <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Expo_54-000020?style=flat-square&logo=expo&logoColor=white" />
+    <img src="https://img.shields.io/badge/Convex_DB-EE342F?style=flat-square" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  </div>
+</td>
+<td width="50%" valign="top">
+  <div align="left">
+    <h3>💰 <a href="https://github.com/Itinerant18/Financial-Advisor">FinanceAI Advisor</a></h3>
+    <p><b>Full-Stack AI Financial Advisor</b></p>
+    <p>Full-stack personal finance advisory platform with interactive KPI monitoring and customized GPT-3.5 prompt-engineered controller.</p>
+    <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  </div>
+</td>
+</tr>
+</table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 2. [SEPLE Tender Agent](https://github.com/Itinerant18/Seple-Tender-Agent) — Autonomous Procurement Intelligence
-> **Production decision-support system automating discovery, parsing, and semantic matching of government bids.**
-- **MCP Tool-Use:** Features a custom **Model Context Protocol (MCP)** server bridge (`tender_mcp/server.py`) exposing the live PostgreSQL tender database directly to AI models as native tools.
-- **Semantic Reasoning:** LLM reasoning pipeline matching ambiguous procurement contracts (e.g. mapping "video surveillance" to CCTV portfolios without keyword overlap) with deterministic regex fallbacks (`fallback-regex`).
-- **Resilient Pipeline:** Automated scrapers built with Playwright navigating WAF-protected state portals (GeM, CPPP, TenderTiger) with multi-channel Slack/email alert digests.
-- **Stack:** `Python` · `FastAPI` · `PostgreSQL` · `OpenAI GPT-4o` · `MCP` · `Playwright` · `React` · `Docker Compose`
-
----
-
-### 3. [Dexter Tech Support AI](https://github.com/Itinerant18/Swacth360_bot) — Multilingual Enterprise RAG Assistant
-> **Industrial IoT & HMS control panel technical support assistant deployed for field engineers and plant operators.**
-- **21-Node RAG Pipeline:** Implements recursive **RAPTOR** hierarchical cluster indexing, **HyDE** query expansion, and cross-encoder passage reranking across 31 PostgreSQL migrations.
-- **Two-Tier Caching:** Tier-1 exact-match cache via Upstash Redis (<5ms latency) + Tier-2 semantic cache via `pgvector` cosine similarity (threshold ≥ 0.90, <50ms latency).
-- **Multilingual & Visual:** Real-time conversational translation (English, Hindi, Bengali) with dynamic on-the-fly **Mermaid.js** wiring diagram generation in chat.
-- **Stack:** `Next.js 16` · `React 19` · `TypeScript` · `Flutter` · `Supabase pgvector` · `Pinecone` · `OpenAI GPT-4o` · `Upstash Redis`
-
----
-
-### 4. [Urban Assist](https://github.com/Itinerant18/Urban-assist) — UK Home Services Marketplace
-> **Full-lifecycle service booking marketplace connecting UK homeowners with vetted local professionals.**
-- **Monorepo Architecture:** Structured `pnpm` monorepo hosting three independent Next.js 14 applications (`customer`, `provider`, `admin`) sharing typed `@urban-assist/ui`, `db`, and `domain` packages.
-- **Reliable State & Payouts:** Supabase PostgreSQL with strict RLS policies, Stripe payment and webhook integration, Upstash Redis rate limiting, and scheduled edge function cascading via `pg_net` and Vault secrets.
-- **Stack:** `Next.js 14` · `TypeScript` · `Supabase` · `Stripe` · `Upstash Redis` · `Tailwind CSS` · `pnpm workspaces`
-
----
-
-### 5. [Bank Telemetry Outage Warning & Diagnostic System](https://github.com/Itinerant18/Data_scrapping_thgingsboard_ml-intern) — Critical Infrastructure Analytics
-> **Predictive 24-hour power outage forecasting and diagnostic ticket generation for 135 commercial bank branch gateways.**
-- **Deterministic Reliability:** Fail-closed deterministic typed ticket renderer (`ticket-policy-v1`) with Stage C field-level validator achieving 100% acceptance across frozen splits; non-deterministic LLMs disabled for safety.
-- **Machine Learning:** Calibrated LightGBM model with Platt scaling achieving **89.66% incident recall** with a **22.6-hour mean lead time** before power loss events.
-- **Stack:** `Python` · `LightGBM` · `ThingsBoard IoT` · `Scikit-learn` · `PyTorch` · `Docker` · `AWS EC2/ECS`
-
----
-
-### 6. [Serendipity](https://github.com/Itinerant18/Serendipity) — Multi-Platform Marketplace Ecosystem
-> **Complete e-commerce platform spanning Web and Mobile with dual database architecture.**
-- **Dual-Database Pattern:** Segregated Supabase PostgreSQL instances separating customer order flows from multi-tenant seller inventory management.
-- **Real-Time FSM:** Finite State Machine managing order lifecycles (`pending → confirmed → shipped → delivered`) broadcasting live status changes over private Socket.IO rooms.
-- **Dual Payments:** Dual-integrated Razorpay (UPI / India) and Stripe (Global cards) checkout flows.
-- **Stack:** `React 18` · `Expo 54 / React Native` · `Node.js / Express` · `Supabase` · `Redis` · `Socket.IO` · `Tailwind CSS 4`
-
----
-
-### 7. [TicTac Match](https://github.com/Itinerant18/Tic-tac-toe) — Cloudflare Edge Matchmaking Game
-> **Real-time mobile-first social gaming platform built entirely on Cloudflare edge serverless infrastructure.**
-- **Actor Model on the Edge:** Orchestrated with Cloudflare **Durable Objects** — `MatchmakerDO` for lobby websocket queues and matchmaking, `RoomDurableObject` for transactional game boards, and `ConnectionDO` for live 1-on-1 chats.
-- **Zero-Cold-Start DB:** Persisted with Cloudflare **D1** SQL database and integrated with Firebase Auth and Razorpay subscription plans.
-- **Stack:** `Cloudflare Workers` · `Durable Objects` · `Cloudflare D1` · `React 19` · `Tailwind CSS 4` · `Vite`
-
----
-
-### 8. [SWatch360](https://github.com/Itinerant18/SWatch360) — ThingsBoard Industrial IoT Client
-> **Clean Architecture Flutter mobile application replacing desktop interfaces for IoT field engineers.**
-- **Hardware Provisioning:** Direct on-site BLE (`flutter_esp_ble_prov`) and SoftAP Wi-Fi provisioning for ESP32 microcontroller hardware.
-- **Interactive Dashboards:** Full ThingsBoard IoT dashboard rendering with bidirectional JavaScript-to-Dart bridge, FCM push notifications, and alarm acknowledgement.
-- **Stack:** `Flutter` · `Dart` · `ThingsBoard PE Client` · `BLoC` · `Hive` · `Firebase FCM` · `BLE`
-
----
-
-### 9. [Pookies AI Zone](https://github.com/Itinerant18/pookies-ai-zone) — AI Tools Directory & Comparison
-> **Cross-platform mobile directory curating 320+ AI tools with algorithmic side-by-side comparison.**
-- **Automated Pipeline:** Daily GitHub Actions cron crawling ProductHunt, Futurepedia, and GitHub repos to enrich and upsert tools into a Convex real-time database.
-- **Stack:** `React Native` · `Expo 54` · `TypeScript` · `Convex DB` · `FastAPI` · `Python` · `Clay Neumorphic UI`
-
----
-
-### 10. [FinanceAI Advisor](https://github.com/Itinerant18/Financial-Advisor) — AI Financial Advisory Platform
-> **Full-stack personal finance advisory platform with interactive KPI monitoring.**
-- **Structured LLM Controller:** Express backend with custom system prompts generating actionable financial guidance paired with mock metric visualization.
-- **Stack:** `React 18` · `TypeScript` · `Vite` · `Tailwind CSS` · `Express.js` · `OpenAI GPT-3.5 Turbo`
-
----
-
-## 🛠️ Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack
 
 <div align="center">
 
@@ -182,9 +229,9 @@ currently_exploring:
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏛️ Architecture Mastery
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> Architecture Mastery
 
 <div align="center">
 
@@ -226,9 +273,32 @@ currently_exploring:
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📈 GitHub Analytics
+## <img src="https://media.giphy.com/media/mG0AAdfGlZuLGYWCuK/giphy.gif" width="30"> Currently Building
+
+<div align="center">
+
+![Sprint Status](https://img.shields.io/badge/⚡_Active_Production_Sprint-IN_DEVELOPMENT-EC38BC?style=for-the-badge)
+
+| Domain | Systems / Modules | Status |
+| :---: | :--- | :---: |
+| 🤖 **AI & Agents** | SEPLE Tender Agent (MCP Tools + Scrapers) · Sarvam-M | 🟡 Active |
+| 🚗 **Dispatch Core** | Vahnly (Go gRPC · Kafka · Redis H3 · Triton ETA) | 🟡 Active |
+| 📚 **Enterprise RAG** | Dexter Support AI (RAPTOR · 2-Tier Redis/pgvector) | ✅ Done |
+| ☁️ **Edge & Serverless** | TicTac Match (Cloudflare DO + Workers + D1) | ✅ Done |
+| 📱 **Mobile Clients** | SWatch360 (Flutter BLE) · Urban Assist (Next.js 14) | 🟡 Active |
+| 📊 **Industrial IoT** | ThingsBoard Telemetry Ingestion · MQTT · ESP32 | ✅ Done |
+
+<br/>
+
+![Progress](https://img.shields.io/badge/Overall_Sprint_Progress-82%25-7303c0?style=for-the-badge)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
 
 <div align="center">
 
@@ -245,9 +315,9 @@ currently_exploring:
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🐍 Contribution Snake
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> Contribution Snake
 
 <div align="center">
   <picture>
@@ -257,9 +327,9 @@ currently_exploring:
   </picture>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ⚔️ Dev Character Sheet
+## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30"> Dev Character Sheet
 
 <div align="center">
 
@@ -276,7 +346,7 @@ currently_exploring:
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🤝 Let's Connect
 
