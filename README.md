@@ -302,8 +302,8 @@ currently_exploring:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-tawny-pi-56.vercel.app/api?username=Itinerant18&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats-tawny-pi-56.vercel.app/api/top-langs/?username=Itinerant18&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=340" alt="Top Languages" />
+<img height="185" src="https://github-readme-stats-tawny-pi-56.vercel.app/api?username=Itinerant18&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+<img height="185" src="https://github-readme-stats-tawny-pi-56.vercel.app/api/top-langs/?username=Itinerant18&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=340" alt="Top Languages" />
 
 <br/><br/>
 
@@ -313,6 +313,18 @@ currently_exploring:
 
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Itinerant18&theme=tokyo-night&hide_border=true&area=true&color=EC38BC&line=7303c0&point=ffffff" alt="Contribution Graph" />
 
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> 3D Contribution Skyline
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg" />
+    <img alt="3D Profile Contribution Skyline" src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+  </picture>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
