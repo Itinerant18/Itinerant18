@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:03001e,40:7303c0,80:ec38bc,100:fdeff9&height=220&section=header&text=Aniket%20Karmakar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Executive%20Engineer%20-%20R%26D%20%40%20Security%20Engineers%20Pvt.%20Ltd.&descAlignY=58&descAlign=50&descSize=16" width="100%" alt="Aniket Karmakar Header" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:03001e,40:7303c0,80:ec38bc,100:fdeff9&height=220&section=header&text=Aniket%20Karmakar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Executive%20Engineer%20-%20R%26amp%3BD%20%40%20Security%20Engineers%20Pvt.%20Ltd.&descAlignY=58&descAlign=50&descSize=16" width="100%" alt="Aniket Karmakar Header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=EC38BC&center=true&vCenter=true&width=800&height=45&lines=Junior+Executive+Engineer+%E2%80%94+R%26D+%40+SEPLe;Distributed+Systems+%7C+Go+%2B+Kafka+%2B+Redis+Cluster;Autonomous+AI+Agents+%7C+Model+Context+Protocol+(MCP);Enterprise+Multilingual+RAG+Pipelines+%2B+RAPTOR;Industrial+IoT+Architect+%7C+ThingsBoard+%2B+ESP32;Edge+Serverless+%7C+Cloudflare+Durable+Objects" alt="Typing SVG" />
 
@@ -282,4 +282,98 @@ currently_exploring:
 ![Sprint Status](https://img.shields.io/badge/%E2%9A%A1_Active_Production_Sprint-IN_DEVELOPMENT-EC38BC?style=for-the-badge)
 
 | Domain | Systems / Modules | Status |
-| :---: | :--- | :---: |\n| 🤖 **AI & Agents** | SEPLE Tender Agent (MCP Tools + Scrapers) · Sarvam-M | 🟡 Active |\n| 🚗 **Dispatch Core** | Vahnly (Go gRPC · Kafka · Redis H3 · Triton ETA) | 🟡 Active |\n| 📚 **Enterprise RAG** | Dexter Support AI (RAPTOR · 2-Tier Redis/pgvector) | ✅ Done |\n| ☁️ **Edge & Serverless** | TicTac Match (Cloudflare DO + Workers + D1) | ✅ Done |\n| 📱 **Mobile Clients** | SWatch360 (Flutter BLE) · Urban Assist (Next.js 14) | 🟡 Active |\n| 📊 **Industrial IoT** | ThingsBoard Telemetry Ingestion · MQTT · ESP32 | ✅ Done |\n\n<br/>\n\n![Progress](https://img.shields.io/badge/Overall_Sprint_Progress-82%25-7303c0?style=for-the-badge)\n\n</div>\n\n<img src=\"https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif\" width=\"100%\">\n\n## <img src=\"https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif\" width=\"30\"> GitHub Analytics\n\n<div align=\"center\">\n\n<img height=\"185\" src=\"https://github-readme-stats.vercel.app/api?username=Itinerant18&theme=tokyonight&hide_border=true&show_icons=true\" alt=\"GitHub Stats\" />\n<img height=\"185\" src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=Itinerant18&theme=tokyonight&hide_border=true&layout=compact&langs_count=8\" alt=\"Top Languages\" />\n\n<br/><br/>\n\n<img width=\"96%\" src=\"https://streak-stats.demolab.com?user=Itinerant18&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=EC38BC&ring=7303c0&sideLabels=EC38BC&currStreakLabel=EC38BC\" alt=\"GitHub Streak\" />\n\n<br/>\n\n<img width=\"96%\" src=\"https://github-readme-activity-graph.vercel.app/graph?username=Itinerant18&theme=tokyo-night&hide_border=true&area=true&color=EC38BC&line=7303c0&point=ffffff\" alt=\"Contribution Graph\" />\n\n</div>\n\n<img src=\"https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif\" width=\"100%\">\n\n## <img src=\"https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif\" width=\"30\"> 3D Contribution Skyline\n\n<div align=\"center\">\n  <picture>\n    <source media=\"(prefers-color-scheme: dark)\" srcset=\"profile-3d-contrib/profile-night-rainbow.svg\" />\n    <source media=\"(prefers-color-scheme: light)\" srcset=\"profile-3d-contrib/profile-green-animate.svg\" />\n    <img alt=\"3D Profile Contribution Skyline\" src=\"profile-3d-contrib/profile-night-rainbow.svg\" width=\"100%\" />\n  </picture>\n</div>\n\n<img src=\"https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif\" width=\"100%\">\n\n## <img src=\"https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif\" width=\"30\"> Contribution Snake\n\n<div align=\"center\">\n  <picture>\n    <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/Itinerant18/Itinerant18/output/github-contribution-grid-snake-dark.svg\" />\n    <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/Itinerant18/Itinerant18/output/github-contribution-grid-snake.svg\" />\n    <img alt=\"GitHub contribution snake\" src=\"https://raw.githubusercontent.com/Itinerant18/Itinerant18/output/github-contribution-grid-snake.svg\" />\n  </picture>\n</div>\n\n<img src=\"https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif\" width=\"100%\">\n\n## <img src=\"https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif\" width=\"30\"> Dev Character Sheet\n\n<div align=\"center\">\n\n| Attribute | Character Stat |\n| :--- | :--- |\n| 🏷️ **Name** | Aniket Karmakar |\n| ⚔️ **Class** | Systems Architect & Full-Stack Engineer |\n| 🏢 **Guild** | Security Engineers Pvt. Ltd. (SEPLe) — R&D |\n| 🗺️ **Server** | Kolkata, India 🇮🇳 |\n| 🛡️ **Primary Weapons** | TypeScript · Go · Python · SQL · Flutter |\n| 🔮 **Magic Specialization** | Multi-Agent AI · MCP Tooling · RAPTOR RAG Pipelines |\n| ⚡ **Active Quest** | Autonomous Tender Discovery & Real-Time Telemetry Dispatch |\n| 🎯 **Next Boss Fight** | Distributed Consensus · High-Scale K8s Event Sinks |\n\n</div>\n\n<img src=\"https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif\" width=\"100%\">\n\n## 🤝 Let's Connect\n\n<div align=\"center\">\n\n[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itinerant018)\n[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Itinerant18)\n[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itinerant018@gmail.com)\n\n<br/>\n\n![Quote](https://img.shields.io/badge/%F0%9F%92%AC_%22Architecture_is_decisions_made_early_%E2%80%94_the_rest_is_just_code.%22-EC38BC?style=for-the-badge&labelColor=03001e&color=7303c0)\n\n<br/>\n\n<img src=\"https://capsule-render.vercel.app/api?type=wave&color=0:fdeff9,40:ec38bc,80:7303c0,100:03001e&height=120&section=footer\" width=\"100%\" alt=\"Footer Wave\" />\n\n</div>
+| :---: | :--- | :---: |
+| 🤖 **AI & Agents** | SEPLE Tender Agent (MCP Tools + Scrapers) · Sarvam-M | 🟡 Active |
+| 🚗 **Dispatch Core** | Vahnly (Go gRPC · Kafka · Redis H3 · Triton ETA) | 🟡 Active |
+| 📚 **Enterprise RAG** | Dexter Support AI (RAPTOR · 2-Tier Redis/pgvector) | ✅ Done |
+| ☁️ **Edge & Serverless** | TicTac Match (Cloudflare DO + Workers + D1) | ✅ Done |
+| 📱 **Mobile Clients** | SWatch360 (Flutter BLE) · Urban Assist (Next.js 14) | 🟡 Active |
+| 📊 **Industrial IoT** | ThingsBoard Telemetry Ingestion · MQTT · ESP32 | ✅ Done |
+
+<br/>
+
+![Progress](https://img.shields.io/badge/Overall_Sprint_Progress-82%25-7303c0?style=for-the-badge)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
+
+<div align="center">
+
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=Itinerant18&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats" />
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itinerant18&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+
+<br/><br/>
+
+<img width="96%" src="https://streak-stats.demolab.com?user=Itinerant18&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=EC38BC&ring=7303c0&sideLabels=EC38BC&currStreakLabel=EC38BC" alt="GitHub Streak" />
+
+<br/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Itinerant18&theme=tokyo-night&hide_border=true&area=true&color=EC38BC&line=7303c0&point=ffffff" alt="Contribution Graph" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> 3D Contribution Skyline
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg" />
+    <img alt="3D Profile Contribution Skyline" src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+  </picture>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Itinerant18/Itinerant18/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Itinerant18/Itinerant18/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Itinerant18/Itinerant18/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30"> Dev Character Sheet
+
+<div align="center">
+
+| Attribute | Character Stat |
+| :--- | :--- |
+| 🏷️ **Name** | Aniket Karmakar |
+| ⚔️ **Class** | Systems Architect & Full-Stack Engineer |
+| 🏢 **Guild** | Security Engineers Pvt. Ltd. (SEPLe) — R&D |
+| 🗺️ **Server** | Kolkata, India 🇮🇳 |
+| 🛡️ **Primary Weapons** | TypeScript · Go · Python · SQL · Flutter |
+| 🔮 **Magic Specialization** | Multi-Agent AI · MCP Tooling · RAPTOR RAG Pipelines |
+| ⚡ **Active Quest** | Autonomous Tender Discovery & Real-Time Telemetry Dispatch |
+| 🎯 **Next Boss Fight** | Distributed Consensus · High-Scale K8s Event Sinks |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itinerant018)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Itinerant18)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itinerant018@gmail.com)
+
+<br/>
+
+![Quote](https://img.shields.io/badge/%F0%9F%92%AC_%22Architecture_is_decisions_made_early_%E2%80%94_the_rest_is_just_code.%22-EC38BC?style=for-the-badge&labelColor=03001e&color=7303c0)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:fdeff9,40:ec38bc,80:7303c0,100:03001e&height=120&section=footer" width="100%" alt="Footer Wave" />
+
+</div>
