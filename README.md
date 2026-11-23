@@ -142,7 +142,7 @@ currently_exploring:
 
 ---
 
-## 🛠️ Tech Stack & Architecture Mastery
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -182,20 +182,47 @@ currently_exploring:
 
 </div>
 
-<br/>
+---
+
+## 🏛️ Architecture Mastery
 
 <div align="center">
 
-### 📊 Architecture & Competencies
+### ✅ Battle-Tested
 
-| Domain | Specialization | Readiness |
-| :--- | :--- | :---: |
-| **Distributed Systems** | Go gRPC · Kafka Event Bus · Redis Cluster | ![100%](https://img.shields.io/badge/Proficiency-90%25-EC38BC?style=flat-square) |
-| **Autonomous AI / Agents** | Model Context Protocol (MCP) · Tool-Use · Scrapers | ![95%](https://img.shields.io/badge/Proficiency-92%25-EC38BC?style=flat-square) |
-| **RAG Pipelines** | RAPTOR · HyDE · pgvector · Cross-Encoder Rerank | ![95%](https://img.shields.io/badge/Proficiency-95%25-2ea44f?style=flat-square) |
-| **Full-Stack & Edge** | Next.js 16 · React 19 · Cloudflare Durable Objects | ![95%](https://img.shields.io/badge/Proficiency-95%25-2ea44f?style=flat-square) |
-| **Mobile Development** | Flutter (BLoC) · React Native (Expo) | ![88%](https://img.shields.io/badge/Proficiency-88%25-EC38BC?style=flat-square) |
-| **Industrial IoT** | ThingsBoard · MQTT · ESP32 Hardware Integration | ![90%](https://img.shields.io/badge/Proficiency-90%25-2ea44f?style=flat-square) |
+![MVC](https://img.shields.io/badge/MVC_Architecture-✅-2ea44f?style=flat-square)
+![REST API](https://img.shields.io/badge/REST_API_Design-✅-2ea44f?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT_%2F_OAuth2-✅-2ea44f?style=flat-square)
+![Spring Security](https://img.shields.io/badge/Spring_Security-✅-2ea44f?style=flat-square)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-✅-2ea44f?style=flat-square)
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-✅-2ea44f?style=flat-square)
+![LLM Orchestration](https://img.shields.io/badge/LLM_Orchestration-✅-2ea44f?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker_Compose-✅-2ea44f?style=flat-square)
+![ThingsBoard IoT](https://img.shields.io/badge/ThingsBoard_IoT-✅-2ea44f?style=flat-square)
+![MQTT](https://img.shields.io/badge/MQTT_Telemetry-✅-2ea44f?style=flat-square)
+![SSR Next.js](https://img.shields.io/badge/SSR_Next.js-✅-2ea44f?style=flat-square)
+![Component Architecture](https://img.shields.io/badge/Component_Architecture-✅-2ea44f?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector_%2F_Vector_DB-✅-2ea44f?style=flat-square)
+![Redis Caching](https://img.shields.io/badge/Redis_Caching-✅-2ea44f?style=flat-square)
+![Go gRPC](https://img.shields.io/badge/Go_gRPC-✅-2ea44f?style=flat-square)
+![Kafka Event Bus](https://img.shields.io/badge/Kafka_Event_Bus-✅-2ea44f?style=flat-square)
+![Cloudflare DO](https://img.shields.io/badge/Cloudflare_Durable_Objects-✅-2ea44f?style=flat-square)
+![Flutter BLoC](https://img.shields.io/badge/Flutter_BLoC-✅-2ea44f?style=flat-square)
+
+### 🔥 Currently Learning
+
+![System Design](https://img.shields.io/badge/System_Design_HLD%2FLLD-75%25-EC38BC?style=flat-square)
+![CAP Theorem](https://img.shields.io/badge/CAP_Theorem-55%25-EC38BC?style=flat-square)
+![Kafka](https://img.shields.io/badge/Kafka_%2F_Event_Driven-40%25-EC38BC?style=flat-square)
+![CQRS](https://img.shields.io/badge/CQRS_Pattern-30%25-7303c0?style=flat-square)
+![Event Sourcing](https://img.shields.io/badge/Event_Sourcing-20%25-7303c0?style=flat-square)
+![HyDE Retrieval](https://img.shields.io/badge/HyDE_Retrieval-55%25-EC38BC?style=flat-square)
+![Multi-Agent AI](https://img.shields.io/badge/Multi--Agent_AI-35%25-7303c0?style=flat-square)
+![LLM Fine-tuning](https://img.shields.io/badge/LLM_Fine--Tuning-25%25-7303c0?style=flat-square)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-28%25-7303c0?style=flat-square)
+![Observability](https://img.shields.io/badge/Observability-35%25-7303c0?style=flat-square)
+![Flutter Clean Arch](https://img.shields.io/badge/Flutter_Clean_Arch-48%25-EC38BC?style=flat-square)
+![Triton Serving](https://img.shields.io/badge/Triton_Serving-40%25-EC38BC?style=flat-square)
 
 </div>
 
